@@ -1,10 +1,35 @@
 {
 	"name": "Deep Black",
 	"colors": {
-		"editor.background": "#263238",
-		"editor.foreground": "#eeffff",
+		"editor.background": "#080808",
+		"editor.foreground": "#F8F8F2",
+
+		"editorGroupHeader.tabsBackground": "#080808",
+
+		"activityBarBadge.foreground": "#080808",
+        "activityBar.background": "#080808",
 		"activityBarBadge.background": "#007acc",
-		"sideBarTitle.foreground": "#bbbbbb"
+
+		"sideBarTitle.foreground": "#bbbbbb",
+		"sideBar.foreground": "#8C8C8A",
+        "sideBar.background": "#080808",
+
+		"statusBar.foreground": "#878787",
+        "statusBar.background": "#080808",
+        "statusBar.debuggingForeground": "#F8F8F2",
+        "statusBar.debuggingBackground": "#007460",
+        "statusBar.noFolderBackground": "#080808",
+        "statusBarItem.hoverBackground": "#0B0B0B",
+        "statusBarItem.activeBackground": "#000000",
+
+		"titleBar.activeBackground": "#080808",
+        "titleBar.activeForeground": "#878787",
+        "titleBar.inactiveBackground": "#080808",
+        "titleBar.inactiveForeground": "#878787",
+
+		"tab.activeBorderTop": "#FF5370",
+		
+		"terminal.background": "#080808",
 	},
 	"tokenColors": [
 		{
