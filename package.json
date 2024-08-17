@@ -2,7 +2,7 @@
   "name": "deep-black-theme",
   "displayName": "deep-black-theme",
   "description": "",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "engines": {
     "vscode": "^1.92.0"
   },
