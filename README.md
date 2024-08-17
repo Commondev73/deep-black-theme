@@ -2,16 +2,16 @@
 
 <img src="./images/icon.jpg" width="150" />
 
-# Deep Black Theme
+# Black Matter Theme
 
 </div>
 
 ## Installation
 
 1. Open the **Extensions** sidebar in VS Code. `View → Extensions`
-1. Search for `Deep Black Theme`, choose "Deep Black Theme"
+1. Search for `Black Matter Theme`, choose "Black Matter Theme"
 1. Click **Install** to install it
-1. Navigate to File > Preferences > Color Theme > **Deep Black Theme**
+1. Navigate to File > Preferences > Color Theme > **Black Matter Theme**
 
 ## Manual Installation
 

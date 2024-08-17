@@ -1,6 +1,6 @@
 {
-  "name": "deep-black-theme",
-  "displayName": "deep-black-theme",
+  "name": "black-matter-theme",
+  "displayName": "black-matter-theme",
   "description": "",
   "version": "0.1.0",
   "engines": {
@@ -19,10 +19,10 @@
   "publisher": "DeepBlackTheme",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Commondev73/vscode-deep-black-theme"
+    "url": "https://github.com/Commondev73/vscode-black-matter-theme"
   },
   "bugs": {
-    "url": "https://github.com/Commondev73/vscode-deep-black-theme/issues"
+    "url": "https://github.com/Commondev73/vscode-black-matter-theme/issues"
   },
   "contributes": {
     "themes": [
