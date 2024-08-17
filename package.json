@@ -8,18 +8,22 @@
   },
   "categories": [
     "Themes"
-  ], "repository": {
+  ],
+  "keywords": [
+    "theme",
+    "dark",
+    "black",
+    "dark theme",
+    "black theme"
+  ],
+  "publisher": "DeepBlackTheme",
+  "repository": {
     "type": "git",
     "url": "https://github.com/Commondev73/vscode-deep-black-theme"
   },
   "bugs": {
     "url": "https://github.com/Commondev73/vscode-deep-black-theme/issues"
   },
-  "keywords": [
-    "theme",
-    "dark",
-    "black"
-  ],
   "contributes": {
     "themes": [
       {
