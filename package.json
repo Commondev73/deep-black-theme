@@ -1,6 +1,6 @@
 {
   "name": "black-matter-theme",
-  "displayName": "black-matter-theme",
+  "displayName": "Black Matter Theme",
   "description": "",
   "version": "0.1.0",
   "engines": {
@@ -27,9 +27,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Deep Black",
+        "label": "Black Matter",
         "uiTheme": "vs-dark",
-        "path": "./themes/deep-black-color-theme.json"
+        "path": "./themes/black-matter-color-theme.json"
       }
     ]
   }
