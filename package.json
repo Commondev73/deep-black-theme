@@ -3,6 +3,7 @@
   "displayName": "Black Matter Theme",
   "description": "",
   "version": "0.1.0",
+  "icon": "images/icon.jpg",
   "engines": {
     "vscode": "^1.92.0"
   },
