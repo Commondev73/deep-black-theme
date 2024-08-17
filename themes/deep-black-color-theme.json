@@ -51,6 +51,13 @@
 	},
 	"tokenColors": [
 		{
+            "name": "Meta",
+            "scope": "meta",
+            "settings": {
+                "foreground": "#EEFFFF"
+            }
+        },
+		{
 			"name": "Comment",
 			"scope": [
 				"comment",
@@ -77,7 +84,7 @@
 				"constant.other.color"
 			],
 			"settings": {
-				"foreground": "#ffffff"
+				"foreground": "#EEFFFF"
 			}
 		},
 		{
@@ -118,7 +125,7 @@
 				"keyword.other.substitution"
 			],
 			"settings": {
-				"foreground": "#89DDFF"
+				"foreground": "#00A4F3"
 			}
 		},
 		{
